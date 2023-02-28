@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Samizic29
-- 👀 I’m interested in Graphic Design, Web Design and Data Analysis
+- 👀 I’m interested in Data Analysis, Web Design, and Graphic Design.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any Graphic design or Data Analysis projects
+- 💞️ I’m looking to collaborate on Data Analysis projects
+- My skills and technologies: MS Excel, SQL, Python, R, Tableau, Pandas, Data Visualization, Communication Skill, Presentation Skill, Data wrangling and transformation.
 - 📫 How to reach me: samueloyedele15@gmail.com, https://www.linkedin.com/in/oyedele-samuel-53579b19b
 
 <!---
