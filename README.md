@@ -8,7 +8,7 @@ As a Junior Data Analyst, I have gained valuable experience working with large d
 * MS Excel
 * SQL
 * Python
-* R Programing 
+* R Programming language
 * Tableau
 * Pandas
 * Data Wrangling
