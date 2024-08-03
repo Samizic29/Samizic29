@@ -17,7 +17,7 @@ As a Data Analyst, I transform data into actionable insights with reports and da
 
 samueloyedele15@gmail.com
 
-https://www.linkedin.com/in/oyedele-samuel-53579b19b
+[https://www.linkedin.com/in/oyedele-samuel-53579b19b](https://www.linkedin.com/in/samuel-oyedele-53579b19b/)
 
 > I'm looking forward to collaborate on any Data Analytics projects.
 
